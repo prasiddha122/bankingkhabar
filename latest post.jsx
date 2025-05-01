@@ -34,5 +34,5 @@ const AllPosts = () => {
     </div>
   );
 };
-
+//nepal//
 export default AllPosts;
