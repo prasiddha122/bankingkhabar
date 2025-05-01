@@ -5669,6 +5669,10 @@ textarea {
   position: fixed;
   
 }
+/* New */
+.button {
+	background-color: #007bff; /* Bootstrap Primary Blue */
+  }
 
 
  
